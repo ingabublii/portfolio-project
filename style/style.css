@@ -68,7 +68,7 @@ h2 {
 }
 @media (max-width:900px){
     .hero {
-            padding: 80px 20px;
+        padding: 80px 20px;
         }
     h1 {
         font-size: 44px;
@@ -83,7 +83,6 @@ h2 {
         text-align: center;
     }
     .project-description p {
-        
         text-align: center !important;
     }
 }
