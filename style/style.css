@@ -76,12 +76,13 @@ h2 {
     }   
     h2 {
         font-size: 44px;
+        text-align: center;
     }
     .project-description {
         padding: 0;
         text-align: center;
     }
-    p {
+    .project-description p {
         text-align: center;
     }
 }
