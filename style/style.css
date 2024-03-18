@@ -31,6 +31,26 @@ body {
     line-height: 2;
     color: #272142;
 }
+.about-section h1 {
+    font-size: 64px;
+    font-family: var(--secondary-font-family);
+    font-weight: bold;
+    line-height: 1;
+    color: #000000;
+}
+.about-section h2 {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: var(--main-font-family);
+    line-height: 1;
+    color: #272142;
+}
+.about-section p {
+    font-size: 16px;
+    font-weight: normal;
+    color: #272142; 
+    text-align: left;
+}
 .btn-branding {
     background: var(--primary-color);
     color: white;
